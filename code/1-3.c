@@ -10,10 +10,10 @@ int main()
     scanf("%d", &age) ;
 
     printf("Enter grade: ") ;
-    scanf("%c", &grade) ;
+    scanf(" %c", &grade) ;
 
     printf("Enter gpa: ") ;
-    scanf("%f", &gpa) ;
+    scanf(" %f", &gpa) ;
     
     return 0;
 }
