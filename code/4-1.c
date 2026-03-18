@@ -15,16 +15,11 @@ int main()
             printf("%d\n", a - b);
             break;
         case '*':
-            printf(%d\n", a * b);
+            printf("%d\n", a * b);
             break;
         case '/':
-            if(b == 0) {
-                printf("0으로 나눌 수 없습니다.");
-            } else {
             printf("%d\n", a / b);
-            }
             break;
     }
     return 0;
 }
-
