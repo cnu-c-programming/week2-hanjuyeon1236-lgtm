@@ -2,11 +2,11 @@
 
 int main()
 {
-    flaot a = 0.1 + 0.2;
+    float a = 0.1 + 0.2;
     float b = 0.3;
 
     printf("a = %.100f\n", a);
-    printf("b = %.100f\n, b);
+    printf("b = %.100f\n", b);
     printf("a == b is %d\n", a == b);
 
     double c = 0.1 + 0.2;
@@ -18,4 +18,3 @@ int main()
 
     return 0;
 }
-
