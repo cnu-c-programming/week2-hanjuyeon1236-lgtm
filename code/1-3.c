@@ -6,7 +6,7 @@ int main()
     char grade;
     float gpa;
     
-    scanf("%d", &age) ;
+    scanf(" %d", &age) ;
     printf("Enter age: ") ;
 
     scanf(" %c", &grade) ;
