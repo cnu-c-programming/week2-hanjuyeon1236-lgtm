@@ -9,7 +9,7 @@ int main()
         printf("a < b\n");
     }
     else {
-        printf("s >= b ???\n");
+        printf("a >= b ???\n");
     }
 
     return 0;
