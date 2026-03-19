@@ -5,15 +5,15 @@ int main()
     int age;
     char grade;
     float gpa;
-
-    printf("Enter age: ") ;
+    
     scanf("%d", &age) ;
+    printf("Enter age: ") ;
 
-    printf("Enter grade: ") ;
     scanf(" %c", &grade) ;
+    printf("Enter grade: ") ;
 
-    printf("Enter gpa: ") ;
     scanf(" %f", &gpa) ;
+    printf("Enter gpa: ") ;
     
     return 0;
 }
