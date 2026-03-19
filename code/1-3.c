@@ -7,7 +7,7 @@ int main()
     float gpa;
     
     scanf("");
-    printf(" %d %c %.6f\n", age, grade, gpa);
+    printf("%d %c %.6f\n", age, grade, gpa);
 
     return 0;
 }
