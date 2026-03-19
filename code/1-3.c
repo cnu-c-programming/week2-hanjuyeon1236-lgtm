@@ -12,7 +12,7 @@ int main()
     scanf(" %c", &grade) ;
     printf("Enter grade: ") ;
 
-    scanf(" %f", &gpa) ;
+    scanf(" %f\n", &gpa) ;
     printf("Enter gpa: ") ;
     
     return 0;
